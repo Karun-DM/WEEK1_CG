@@ -47,7 +47,7 @@ like arrays and strings, as well as modularizing code with functions (methods).
 - Iterating through arrays
 - Multi-dimensional arrays
 
-  ### Day 5: Functions (Methods)
+### Day 5: Functions (Methods)
 - What are functions/methods?
 - Defining and calling methods
 - Method parameters and return types
